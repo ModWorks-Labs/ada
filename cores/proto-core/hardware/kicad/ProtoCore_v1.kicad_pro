@@ -647,6 +647,24 @@
       "/Power & Reset Management/SUP_CTS": [
         "Control"
       ],
+      "/Power & Reset/3V3_EXT_CT": [
+        "Control"
+      ],
+      "/Power & Reset/REG_CFG": [
+        "Control"
+      ],
+      "/Power & Reset/REG_FB": [
+        "Control"
+      ],
+      "/Power & Reset/REG_PG": [
+        "Control"
+      ],
+      "/Power & Reset/SUP_CTR": [
+        "Control"
+      ],
+      "/Power & Reset/SUP_CTS": [
+        "Control"
+      ],
       "/Power Management/3V3_AUX_CT": [
         "Control"
       ],

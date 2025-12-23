@@ -1,0 +1,52 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="CRfNMMrQ0N5K0sRU5os7">
+    <mxGraphModel dx="1426" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="50" width="630" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-1" value="Top Layer" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="350" y="149.02" width="150" height="41.97" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-2" value="Bottom Layer" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="315" y="446.5" width="190" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-3" value="Inner Layer 1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="320" y="205.61" width="180" height="48.78" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-4" value="Inner Layer 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="315" y="265.61000000000007" width="190" height="48.78" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-5" value="Inner Layer 3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="320" y="325.3699999999999" width="180" height="49.26" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-6" value="Inner Layer 4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="310" y="383.94999999999976" width="200" height="52.1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-13" value="&lt;font&gt;&lt;span&gt;SIGNAL&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#A9C4EB;fontSize=27;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-14" value="&lt;font&gt;&lt;span&gt;GND&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#97D077;fontSize=27;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-15" value="&lt;font&gt;&lt;span&gt;GND&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#97D077;fontSize=27;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-16" value="&lt;font&gt;&lt;span&gt;SIGNAL&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#A9C4EB;fontSize=27;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-17" value="&lt;span&gt;POWER + SIGNAL&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FF7B7B;fontSize=27;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-18" value="&lt;font&gt;&lt;span&gt;GND + LGA PADS&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#97D077;fontSize=27;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSKMShyHKDjm7b_-ukiL-33" value="6 Layer PCB Stackup" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="490" y="60" width="270" height="41.97" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
