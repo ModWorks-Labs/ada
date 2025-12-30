@@ -885,7 +885,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../../../Manufacturing/ProtoCore_v1/ProtoCore_v1-Board-Fab/",
+      "plot": "../../exports/pdf/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "ProtoCore_v1.step",
