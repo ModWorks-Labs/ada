@@ -1,0 +1,37 @@
+{
+  "name": "Proto Core v1 (ESP32-S3R8, 16MB Flash)",
+  "vendor": "ModWorks Labs",
+  "url": "https://modworkslabs.com",
+  "platform": "espressif32",
+  "frameworks": ["arduino"],
+
+  "hardware": {
+    "chipFamily": "ESP32",
+    "cpu": "xtensa",
+    "f_cpu": "240000000L",
+    "f_flash": "80000000L",
+    "flash_mode": "qio"
+  },
+
+  "build": {
+    "core": "esp32",
+    "mcu": "esp32s3",
+    "variant": "esp32s3",
+    "extra_flags": [
+      "-DBOARD_HAS_PSRAM",
+      "-DARDUINO_USB_MODE=1",
+      "-DARDUINO_USB_CDC_ON_BOOT=1"
+    ]
+  },
+
+  "upload": {
+    "flash_size": "16MB",
+    "maximum_size": 16777216,
+    "maximum_ram_size": 327680,
+    "speed": 921600
+  },
+
+  "debug": {
+    "openocd_target": "esp32s3.cfg"
+  }
+}
